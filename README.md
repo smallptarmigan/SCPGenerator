@@ -5,6 +5,7 @@
 ```sh
 $ python3 -m venv venv
 $ source ./venv/bin/activate
+(venv)$ pip install --upgrade pip
 (venv)$ pip install -r requirements.txt
 (venv)$ python3 ***.py # いろいろする
 (venv)$ deactivate
@@ -25,4 +26,3 @@ $ sudo apt install make
 $ sudo apt install libssl-dev python3-dev
 $ sudo apt install build-essential libffi-dev
 ```
-

@@ -1,4 +1,5 @@
 wheel
 torch
 cython
+numpy
 pycocotools
