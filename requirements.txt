@@ -1,5 +1,9 @@
-wheel
-torch
-cython
-numpy
-pycocotools
+wheel==0.34.2
+torch==1.5.0
+cython==0.29.18
+numpy==1.18.4
+pycocotools==2.0.0
+matplotlib==3.2.1
+nltk==3.5
+Pillow==7.1.2
+argparse
